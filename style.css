@@ -32,8 +32,9 @@
 }
 /* Eéments principaux */
 body{
-	background: url("images/background.png");
+	background: yellow;
 	font-family: robotoregular;
+
 }
 .container{
 	height: 100%;
