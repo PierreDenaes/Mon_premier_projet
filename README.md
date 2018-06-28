@@ -1,59 +1,57 @@
 # Mon_premier_projet
 
-Pusher Ma première page html css sur GitHub.
+Pusher ma première page html css sur GitHub.
 
 
-Bonjour pour me premier repo, j'ai décidé de réaliser un repository contenant ma première page html css. Cette page fût réalisée par le biais du cours OpenClass Room "Apprenez à créer votre site web avec HTML5 et CSS3".
+Bonjour pour ce premier repo, je décide de réaliser un repository contenant ma première page html css. Cette page fut réalisée par le biais du cours OpenClass Room "Apprenez à créer votre site web avec HTML5 et CSS3".
 
-Pour se faire j'ai créé un repo sur github avec un README.md intitulé Mon_premier_projet.
+Création d'un repo sur github avec un README.md intitulé Mon_premier_projet.
 
-Ensuite avec mon terminal je me suis placé dans le dossier local de ma page html5 css3 j'ai effectué la commande "git init".
+Ouverture du terminal je me place dans le dossier local de ma page html5 css3, commande "git init".
 
-J'ai ensuite synchronisé mon dossier local avec mon dépot distant avec la commande "git remote add origin https://github.com/PierreDenaes/Mon_premier_projet.git".
+Synchronisation du dossier local avec le dépôt distant, commande "git remote add origin https://github.com/PierreDenaes/Mon_premier_projet.git".
 
-Je vérifie la synchronisation avec la commande "git remote -v".
+Vérification de la synchronisation, commande "git remote -v".
 
-Je lance la commande "git fetch origin" afin de synchroniser mon travail.
+Synchronisation du travail, commande "git fetch origin".
 
-Je lance la commande "git status" pour voir la liste des files à ajouter à l'index
+Commande "git status" pour voir la liste des files à ajouter à l'index.
 
-Je récupére mon fichier README.md de github vers mon local avec la commande "git pull origin master"
+Récupération du fichier README.md de github vers le dossier local, commande "git pull origin master".
 
-j'ajoute les éléments de ma page html css à mon index avec la commande "git add" 
+Ajout des éléments de la page html css à l'index, commande "git add" 
 
-je les commite avec la commande "git commit -m"
+Commite, commande "git commit -m"
 
-je les pousses sur github avec la commande "git push origin master"
+Pusher sur github, commande "git push origin master"
 
-je crée une nouvelle branche sur mon repo que j'appel background-jaune avec la commande "git checkout -b background-jaune"
+Création d'une nouvelle branche sur le repo "background-jaune", commande "git checkout -b background-jaune"
 
-Une fois dans cette nouvelle branche je decide de modifier le fichier style.css en l'ouvrant dans sublime avec la commande "sublime style.css", je modifie le background et j'enregistre.
+Modification du fichier style.css, ouverture dans sublime, commande "sublime style.css", modification du background et enregistrement.
 
-je verifie si la modification à été prise en compte avec la commande "git status"
+Vérification de la modification, commande "git status"
 
-j'ajoute le fichier modifié à mon index avec la commande "git add"
+Ajout du fichier modifié dans index, commande "git add"
 
-je le commite avec la commande "git commit -m"
+Commite, commande "git commit -m"
 
-je reviens sur ma branche master avec la commande "git checkout master"
+Retour sur la branche master, commande "git checkout master"
 
-je pousse ma nouvelle branche sur git hub avec la commande "git push origin"
+Vérification des branches, commande "git branch"
 
-je vérifie mes branches avec la commande "git branch"
+Pusher la nouvelle branche sur github, commande "git push origin background-jaune"
 
-je pousse ma nouvelle branche sur github avec la commande "git push origin background-jaune"
+Ajout d'une annotation dans le fichier style.css, commande "sublime style.css" et enregistrement.
 
-j'ajoute une annotation dans mon fichier style.css avec la commande "sublime style.css" et j'enregistre.
+Ajout des modifications dans l'index, commande "git commit -a -m"
 
-j'ajoute mes modifications dans l'index avec la commande "git commit -a -m"
+Ouverture du fichier README.md, commande "sublime README.md", modification et enregistrement.
 
-j'ouvre mon fichier README.md avec la commande "sublime README.md" je le modifie et l'enregistre.
+Ajout des modifications dans l'index, commande "git commit -a -m"
 
-j'ajoute mes modifications dans l'index avec la commande "git commit -a -m"
+Pusher les éléments modifiés sur Github, commande "git push origin"
 
-je pousse mes éléments modifiés avec la commande "git push origin"
 
-exercice fini merci.
 
 
 
