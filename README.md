@@ -49,7 +49,7 @@ Ouverture du fichier README.md, commande "sublime README.md", modification et en
 
 Ajout des modifications dans l'index, commande "git commit -a -m"
 
-Pusher les éléments modifiés sur Github, commande "git push origin"
+Pusher les éléments modifiés sur Github, commande "git push origin master"
 
 
 
